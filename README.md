@@ -6,4 +6,4 @@
 
 💞️ I’m looking to get experience in bove areas
 
-📫 Contact https://www.linkedin.com/in/abrxao/
+📫 Contact (LinkedIn)[https://www.linkedin.com/in/abrxao/]
