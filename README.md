@@ -1,37 +1,70 @@
+<!-- Olá, Abrão! Este é um layout sugerido para o seu perfil no GitHub. -->
+
+<!-- Sinta-se à vontade para customizar cores, textos e ícones como preferir. -->
+
+<!-- Cabeçalho com animação de digitação -->
+
 <div align="center">
-  <h1>
-    <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-      <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7957D5&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Abra%C3%A3o;Desenvolvedor+Front-End;Apaixonado+por+Tecnologia](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7957D5&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Abra%C3%A3o;Desenvolvedor+Front-End;Apaixonado+por+Tecnologia)" alt="Typing SVG" />
-    </a>
-  </h1>
+<a href="https://git.io/typing-svg">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D30%26pause%3D1000%26color%3D3393FF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DOl%25C3%25A1%252C%2Beu%2Bsou%2Bo%2BAbr%25C3%25A3o%2BBarros!%3BDesenvolvedor%2BFront-End;" alt="Typing SVG">
+</a>
 </div>
 
-<p align="center">
-  Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender continuamente sobre o ecossistema de tecnologia. Atualmente, estou aprofundando meus conhecimentos em desenvolvimento front-end com React e explorando as melhores práticas de design de interfaces. Meu objetivo é construir aplicações que sejam não apenas funcionais, mas também intuitivas e agradáveis de usar.
-</p>
+<!-- Seção Sobre Mim -->
 
-<h3 align="center">💻 Tecnologias e Ferramentas</h3>
-<p align="center">
-  <a href="[https://skillicons.dev](https://skillicons.dev)">
-    <img src="[https://skillicons.dev/icons?i=html,css,js,react,git,vscode,figma,sass](https://skillicons.dev/icons?i=html,css,js,react,git,vscode,figma,sass)" />
-  </a>
-</p>
+<div align="left">
+<h3>🚀 Sobre Mim</h3>
+<p>
+Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender continuamente sobre o ecossistema de tecnologia.
 
-<h3 align="center">📊 Minhas Estatísticas no GitHub</h3>
-<div align="center">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api?username=abrxao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=abrxao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)" alt="Estatísticas de Abraão no GitHub"/>
-  <br><br>
-  <img align="center" src="[https://streak-stats.demolab.com/?user=abrxao&theme=tokyonight](https://streak-stats.demolab.com/?user=abrxao&theme=tokyonight)" alt="Sequência de Contribuições de Abraão"/>
-  <br><br>
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=abrxao&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs?username=abrxao&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight)" alt="Linguagens de Abraão"/>
+
+
+
+
+Atualmente, estou aprofundando meus conhecimentos em desenvolvimento front-end com <b>React</b> e explorando as melhores práticas de design de interfaces. Meu objetivo é construir aplicações que sejam não apenas funcionais, mas também intuitivas e agradáveis de usar.
+</p>
 </div>
 
-<h3 align="center">🔗 Conecte-se Comigo</h3>
-<p align="center">
-  <a href="[https://linkedin.com/in/SEU_USUARIO_LINKEDIN](https://linkedin.com/in/SEU_USUARIO_LINKEDIN)" target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:SEU_EMAIL@exemplo.com" target="_blank">
-    <img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email"/>
-  </a>
+<!-- Tecnologias e Ferramentas -->
+
+<div align="left">
+<h3>💻 Tecnologias e Ferramentas</h3>
+<p>
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,js,ts,html,css,tailwind,nodejs,git,figma,vscode%26perline%3D5" />
+</a>
 </p>
+</div>
+
+<!-- Estatísticas do GitHub -->
+
+<div align="center">
+<h3>📊 Minhas Estatísticas no GitHub</h3>
+<a href="https://github.com/abrxao">
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dabrxao%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dabrxao%26layout%3Dcompact%26langs_count%3D8%26theme%3Dtokyonight"/>
+</a>
+
+
+
+
+
+<a href="https://github.com/abrxao">
+<img src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3Dabrxao%26theme%3Dtokyonight%26date_format%3Dj%2520M%255B%2520Y%255D" />
+</a>
+</div>
+
+<!-- Contato -->
+
+<div align="center">
+<h3>🔗 Conecte-se Comigo</h3>
+<p>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/abr%25C3%25A3o-barros-161a06248/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="mailto:abraao.santos.as9@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+</p>
+</div>
